@@ -1,0 +1,10 @@
+The celt codec design and implementation have been merged into
+the IETF Codec Working Group's "Opus" codec. As such, this
+repository is no longer under active development.
+
+Please see https://git.xiph.org/?p=opus.git
+and https://git.xiph.org/?p=users/jm/opus-tools.git for more
+current work. Visit http://opus-codec.org/ for more
+information.
+
+We apologize for any inconvenience this has caused.
